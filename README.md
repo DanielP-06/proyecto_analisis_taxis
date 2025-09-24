@@ -1,4 +1,4 @@
-# Proyecto_Analisis_Taxis
+# Proyecto Analisis Taxis
 Análisis exploratorio de negocio y manejo de bases de datos con SQL
 
 Este proyecto analiza datos de viajes compartidos en Chicago para Zuber, una nueva empresa del sector.

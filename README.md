@@ -1,7 +1,5 @@
-# Proyecto Analisis Taxis
-Análisis exploratorio de negocio y manejo de bases de datos con SQL
-
-Este proyecto analiza datos de viajes compartidos en Chicago para Zuber, una nueva empresa del sector.
+• Análisis exploratorio de negocio y manejo de bases de datos con SQL
+• Este proyecto analiza datos de viajes compartidos en Chicago para Zuber, una nueva empresa del sector.
 
 ## Problema
 Zuber, al lanzarse en Chicago, necesita comprender el mercado local de viajes compartidos, identificar patrones en el comportamiento de los pasajeros y evaluar cómo las condiciones climáticas impactan la duración de los viajes. El objetivo es obtener información valiosa para la toma de decisiones estratégicas.
